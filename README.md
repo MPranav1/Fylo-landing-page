@@ -1,5 +1,5 @@
 # Fylo-Capstone-project-grp113-
-this project was an capstone project of side hustle internship 5.0 frontend development (HTML,CSS,JS) above project is an frontend of fylo using html and css this project was lead by Pranav Maheshwari and coded by Olamide, Grace aanu and Nofisat 
+this project was an capstone project of side hustle internship 5.0 frontend development (HTML,CSS,JS) above project is an frontend of fylo using html and css this project was lead by Pranav Maheshwari(SH-IT-0019741) and coded by Olamide(SH-IT-0088866), Grace aanu(SH-IT-0036115) and Nofisat(SH-IT-0020605) 
 above code fullfill following requirment 
 
 #Layout
